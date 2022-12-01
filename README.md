@@ -55,7 +55,7 @@ Así, podemos subir todos los archivos y el historial de cambios de nuestro repo
 ![image](https://user-images.githubusercontent.com/114769152/205118183-d3f0aee2-531d-484d-a528-7d2b5e136c60.png)
 Si todo va correctamente, en el momento en el que actualizemos la página los archivos y los historiales aparecerán en GitHub.
 
-##PARTE C. (2 PUNTOS). Áreas de un repositorio Git.
+## PARTE C. (2 PUNTOS). Áreas de un repositorio Git.
 * **Directorio de trabajo (Working directory)**: Es el campo en el que usamos todos los comandos sin afectar el repositorio en absoluto.
 * **Área de preparación (Staging area)**: un archivo sencillo, generalmente almacenado en el directorio de Git, que recopila información acerca de lo que va a estar presente en la próxima confirmación.
 * **Repositorio local (Directorio .git)**: donde se almacenan los metadatos y la base de datos de objetos para un proyecto. Es la parte más importante de Git, y es lo que se copia cuando se clona un repositorio desde otra computadora. El directorio de trabajo es una copia de una versión del proyecto.
